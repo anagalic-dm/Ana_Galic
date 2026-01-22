@@ -19,7 +19,7 @@ h1, h2, h3 {
 	width: 50%;
 }
 .pozadina {
-	background-image: url("pozadina.jpg");
+	background-image: url("multimedija/pozadina.jpg");
 }
 .drugapozadina {
 	background-color: blue;
@@ -35,3 +35,4 @@ a:hover{
 	background-color: pink;
 	
 }
+
